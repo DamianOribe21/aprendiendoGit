@@ -5,3 +5,7 @@ p{
     text-transform: uppercase;
     letter-spacing: 5px;
 }
+
+a{
+    text-decoration: none;
+}
