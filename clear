@@ -1,0 +1,59 @@
+[33mcommit 1a32828deeb7af22cc432421f09fbe851fd7bfba[m[33m ([m[1;36mHEAD -> [m[1;32mlinks[m[33m)[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Wed Aug 3 13:44:44 2022 -0500
+
+    links agregados
+
+[33mcommit 89aa1041fc7191044d1ed4e78193ba11c523431e[m[33m ([m[1;32mmaster[m[33m, [m[1;32mTexto[m[33m)[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Wed Aug 3 13:37:49 2022 -0500
+
+    Cambios de Texto
+
+[33mcommit 2ead670b081c9b1e0ece9d4755cf1c65d9807efc[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Wed Aug 3 13:11:36 2022 -0500
+
+    Se agregó titulo
+
+[33mcommit 0d6bc66401cb39684251159e75560256b98a2679[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Wed Aug 3 13:06:33 2022 -0500
+
+    Se agregó css y color de fondo
+
+[33mcommit 72d6b952333ccb822f5a9610591a31322576d906[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Wed Aug 3 11:53:29 2022 -0500
+
+    Iniciamos
+
+[33mcommit e53d38411ec619029f3cd12960f3fbb7951dbb0c[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Tue Aug 2 21:57:34 2022 -0500
+
+    Devolviendo el nombre del archivo
+
+[33mcommit 8daf3614c2aa9ae7e52759d18c4967f681ee543e[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Tue Aug 2 21:54:22 2022 -0500
+
+    renombrando archivo
+
+[33mcommit 3be9890040771852e72e50830516e71f5c539f5f[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Tue Aug 2 21:40:33 2022 -0500
+
+    Eliminando archivo 2
+
+[33mcommit 7a539485f1d43aa20d6411a91f12c671c958f476[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Tue Aug 2 21:38:07 2022 -0500
+
+    Agregando un chanchito feliz
+
+[33mcommit a07ff30c8a017fd5a5c2b9ba79c0770a0063f6c5[m
+Author: Damian Oribe <damianoribegmail.com>
+Date:   Tue Aug 2 21:36:01 2022 -0500
+
+    Commit inicial
